@@ -45,7 +45,7 @@ Everything is interactive. Click a region, the rest of the dashboard filters. Ho
 ![Dashboard overview](overview_page.PNG)
 *Top-level KPIs and revenue mix*
 
-![Salesperson ranking]()
+![Salesperson Performance Dashboard](sales_team_performance_analysis_report_page.PNG)
 *Composite score, not just revenue — Deepika has the highest total, but Rohit ranks #1 because his AOV and revenue-per-visit are materially better*
 
 ![Monthly trend](monthly_trend_report.PNG)
