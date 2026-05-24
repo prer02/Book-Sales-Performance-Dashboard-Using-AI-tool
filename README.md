@@ -42,7 +42,7 @@ Everything is interactive. Click a region, the rest of the dashboard filters. Ho
 
 > Screenshots from the sanitized run. Replace these paths with your own when you fork.
 
-![Dashboard overview](./screenshots/01_dashboard.png)
+![Dashboard overview](overview_page.PNG)
 *Top-level KPIs and revenue mix*
 
 ![Salesperson ranking](./screenshots/02_leaderboard.png)
