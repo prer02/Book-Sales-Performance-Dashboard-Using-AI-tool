@@ -100,7 +100,7 @@ The app looks for these column headers on the first sheet. Spelling matters; ord
 | `Salesperson_Name` | text | Priya Sharma |
 | `Monthly_Target` | number | 450000 |
 
-A working sample is in [`sample_data/book_sales_data.xlsx`](./sample_data/book_sales_data.xlsx) — 1,000 rows across 12 months, 10 reps, 4 regions. Use it to kick the tires.
+A working sample is in [`sample_data/book_sales_data.xlsx`](book_sales_data.xlsx) — 1,000 rows across 12 months, 10 reps, 4 regions. Use it to kick the tires.
 
 ---
 
