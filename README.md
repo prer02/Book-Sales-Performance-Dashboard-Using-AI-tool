@@ -65,7 +65,7 @@ Everything is interactive. Click a region, the rest of the dashboard filters. Ho
 
 ## How to use it
 
-1. Open the app: **[your-app-name.lovable.app]([https://your-app-name.lovable.app](https://salesdata-analysis-portal.lovable.app/))**
+1. Open the app: **([https://your-app-name.lovable.app](https://salesdata-analysis-portal.lovable.app/))**
 2. Click **Upload** and pick the Excel file (`.xlsx`)
 3. Wait ~20–30 seconds while it parses and builds the views
 4. Use the filters in the sidebar to drill in
